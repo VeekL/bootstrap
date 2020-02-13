@@ -37,3 +37,9 @@ body{
 .navbar-dark{
     background-color: #512DA8
 }
+
+fieldset {
+    overflow: hidden
+  }
+  
+  input { vertical-align: middle; margin-top: -1px;}
