@@ -74,3 +74,21 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+
+.modal-content{
+    .modal-header {
+        background:$background-dark;
+        .modal-title{
+            color:$background-pale;
+        }
+        .close{
+            color:$background-pale;
+        }
+    }
+    .modal-body{
+        background: $background-pale;
+    }
+}
+
+
+

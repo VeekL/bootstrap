@@ -52,3 +52,13 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+.modal-content .modal-header {
+  background: #512DA8; }
+  .modal-content .modal-header .modal-title {
+    color: #D1C4E9; }
+  .modal-content .modal-header .close {
+    color: #D1C4E9; }
+
+.modal-content .modal-body {
+  background: #D1C4E9; }
